@@ -4,8 +4,8 @@
 
 使用极大极小搜索、优化剪枝、简略的开局库、多线程后台思考。
 
-![](https://github.com/malure2625/Gobang2.1.0/Gobang2.1.0/Resource/start.png)
-![](https://github.com/malure2625/Gobang2.1.0/Gobang2.1.0/Resource/begin.png)
+![](https://github.com/malure2625/Gobang2.1.0/blob/master/Gobang2.1.0/Resources/start.png)
+![](https://github.com/malure2625/Gobang2.1.0/blob/master/Gobang2.1.0/Resources/begin.png)
 
 
 ----------
